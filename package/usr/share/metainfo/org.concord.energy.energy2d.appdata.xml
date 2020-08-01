@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component type="desktop">
+  <id>org.concord.energy.energy2d.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Energy2D</name>
+  <name xml:lang="pt_BR">Energy2D</name>
+  <summary>Interactive Heat Transfer Simulations for Everyone</summary>
+  <summary xml:lang="pt_BR">Simulações interativas de transferência de calor</summary>
+  <description>
+    <p>Energy2D is an interactive multiphysics simulation program that models all three modes of heat transfer—conduction, convection, and radiation, and their coupling with particle dynamics.</p>
+    <p xml:lang="pt_BR">O Energy2D é um programa interativo de simulação multifísica que modela os três modos de transferência de calor - condução, convecção e radiação e seu acoplamento com a dinâmica das partículas.</p>
+  </description>
+  <url type="homepage">https://energy.concord.org/energy2d</url>
+  <url type="bugtracker">https://github.com/charxie/energy2d/issues</url>
+  <url type="help">https://energy.concord.org/energy2d/about.html</url>
+  <url type="donation">https://energy.concord.org/energy2d/contact.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Screenshot of app</caption>
+      <caption xml:lang="pt_BR">Tela do App</caption>
+      <image>https://raw.githubusercontent.com/appsedu/energy2d/master/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>charxie</project_group>
+  <provides>
+    <binary>energy2d</binary>
+  </provides>
+  <releases>
+    <release version="3.0.0" date="2020-08-01"/>
+  </releases>
+  <content_rating type="oars-1.0" />
+</component>
+

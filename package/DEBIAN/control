@@ -1,0 +1,13 @@
+Package: energy2d
+Version: 3.0.0
+Installed-Size: 2896
+Maintainer: charxie <charxie@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Depends: default-jre | openjdk-8-jre
+Homepage: https://energy.concord.org/energy2d
+Description: Simulações interativas de transferência de calor
+ O Energy2D é um programa interativo de simulação multifísica que modela os três modos de transferência de calor - condução, convecção e radiação e seu acoplamento com a dinâmica das partículas.
+ .
+ Energy2D is an interactive multiphysics simulation program that models all three modes of heat transfer—conduction, convection, and radiation, and their coupling with particle dynamics.
